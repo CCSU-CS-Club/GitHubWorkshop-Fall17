@@ -42,6 +42,8 @@
 
 5. ### If you run into Merge conflicts, which you hopefully should, please talk to one of the mentors to resolve it!
 
+6. ### Talk to us if you want to learn about rollbacks, etc. that are not being discussed here.
+
 
 ## Contributors:
 
