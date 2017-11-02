@@ -49,5 +49,5 @@
 
 ### TEAM NAME
 
-* Deepankar Malhan
+* Deepankar Malhan, Dan Kostecki
 * TEAM MEMBER
