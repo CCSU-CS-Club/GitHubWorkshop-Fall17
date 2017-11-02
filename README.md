@@ -50,4 +50,6 @@
 ### Teem Meme
 
 * Shehu Muhammad
+* Josh Glynn
+* Deepankar Malhan, Dan Kostecki
 * TEAM MEMBER
