@@ -47,7 +47,7 @@
 
 ## Contributors:
 
-### TEAM NAME
+### Teem Meme
 
-* TEAM MEMBER
+* Shehu Muhammad
 * TEAM MEMBER
