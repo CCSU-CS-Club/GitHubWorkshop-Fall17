@@ -49,5 +49,5 @@
 
 ### TEAM NAME
 
-* TEAM MEMBER
+* Josh Glynn
 * TEAM MEMBER
