@@ -47,7 +47,12 @@
 
 ## Contributors:
 
-### TEAM NAME
+### Teem Meme
 
-* Daniel Kostecki
+
+* Tobias Rittgers
+* Shehu Muhammad
+* Josh Glynn
+* Deepankar Malhan, Dan Kostecki
 * TEAM MEMBER
+
