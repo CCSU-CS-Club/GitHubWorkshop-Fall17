@@ -49,5 +49,5 @@
 
 ### TEAM NAME
 
-* TEAM MEMBER
+* Tobias Rittgers
 * TEAM MEMBER
