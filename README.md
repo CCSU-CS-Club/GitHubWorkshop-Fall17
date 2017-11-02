@@ -49,5 +49,5 @@
 
 ### TEAM NAME
 
-* TEAM MEMBER
+* Daniel Kostecki
 * TEAM MEMBER
